@@ -6,4 +6,4 @@ Prevents setting and locking the wallpaper. Used to set the initial or seasonal 
 
 The latest (and possiably only) release will be avaliable here:
 
-https://github.com/ThomasHolbrook/Set-Wallpapers/releases
+https://github.com/j24professionalservices/Set-Wallpapers/releases
